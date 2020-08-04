@@ -1,0 +1,8 @@
+D:\ApurvaFiles\IntegrationTestTools\Sprint66\SEED2020\EShoppingApplication\EShoppingApplication\bin\Debug\EShoppingApplication.exe.config
+F:\Danny\EShoppingApplication\EShoppingApplication\bin\Debug\EShoppingApplication.exe.config
+F:\Danny\EShoppingApplication\EShoppingApplication\bin\Debug\EShoppingApplication.exe
+F:\Danny\EShoppingApplication\EShoppingApplication\bin\Debug\EShoppingApplication.pdb
+F:\Danny\EShoppingApplication\EShoppingApplication\obj\Debug\EShoppingApplication.csproj.CoreCompileInputs.cache
+F:\Danny\EShoppingApplication\EShoppingApplication\obj\Debug\EShoppingApplication.exe
+F:\Danny\EShoppingApplication\EShoppingApplication\obj\Debug\EShoppingApplication.pdb
+F:\Danny\EShoppingApplication\EShoppingApplication\obj\Debug\EShoppingApplication.csprojAssemblyReference.cache

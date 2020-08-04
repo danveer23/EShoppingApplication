@@ -1,0 +1,11 @@
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\bin\Debug\EShoppingCustomerLib.dll
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\bin\Debug\EShoppingCustomerLib.pdb
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\bin\Debug\EShoppingLib.dll
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\bin\Debug\EShoppingProductLib.dll
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\bin\Debug\EShoppingProductLib.pdb
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\bin\Debug\EShoppingLib.pdb
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\obj\Debug\EShoppingCustomerLib.csprojAssemblyReference.cache
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\obj\Debug\EShoppingCustomerLib.csproj.CoreCompileInputs.cache
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\obj\Debug\EShoppingCustomerLib.csproj.CopyComplete
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\obj\Debug\EShoppingCustomerLib.dll
+F:\Danny\EShoppingApplication\EShoppingCustomerLib\obj\Debug\EShoppingCustomerLib.pdb

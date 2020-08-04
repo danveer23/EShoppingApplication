@@ -1,0 +1,15 @@
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\bin\Debug\EShoppingUtilitiesLibTest.dll
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\bin\Debug\EShoppingUtilitiesLibTest.pdb
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\bin\Debug\nunit.framework.dll
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\bin\Debug\nunit.framework.pdb
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\bin\Debug\nunit.framework.xml
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\obj\Debug\EShoppingUtilitiesLibTest.csproj.CoreCompileInputs.cache
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\obj\Debug\EShoppingUtilitiesLibTest.csproj.CopyComplete
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\obj\Debug\EShoppingUtilitiesLibTest.dll
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\obj\Debug\EShoppingUtilitiesLibTest.pdb
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\bin\Debug\NUnit3.TestAdapter.dll
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\bin\Debug\NUnit3.TestAdapter.pdb
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\bin\Debug\nunit.engine.dll
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\bin\Debug\nunit.engine.api.dll
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\bin\Debug\nunit.engine.core.dll
+F:\Danny\EShoppingApplication\EShoppingUtilitiesLibTest\obj\Debug\EShoppingUtilitiesLibTest.csprojAssemblyReference.cache
